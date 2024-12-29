@@ -1,0 +1,84 @@
+2024-12-29 22:06:43 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:06:43 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2024-12-29 22:06:43 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/GestionInventaire
+2024-12-29 22:07:31 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:07:33 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:07:56 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:07:56 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@54d63c04
+2024-12-29 22:08:27 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...
+2024-12-29 22:14:53 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:14:55 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:15:27 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] Invalid password.
+2024-12-29 22:15:32 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] Invalid email format. Please provide a valid email address.
+2024-12-29 22:15:34 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:15:34 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@786675cd
+2024-12-29 22:15:38 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@2d7c5047
+2024-12-29 22:15:55 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=200, name='Test Produit', category='Test 100', stock=10, price=100.0, timestamp=''}
+2024-12-29 22:15:56 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@1c4af289
+2024-12-29 22:16:10 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@46de238b
+2024-12-29 22:16:20 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT UPDATED SUCCESSFULLY: Product{id=200, name='Supmti', category='supmti', stock=10, price=100.0, timestamp='2024-12-29 22:15:55'}
+2024-12-29 22:16:20 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@15249a32
+2024-12-29 22:16:23 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=200, name='Supmti', category='supmti', stock=10, price=100.0, timestamp='2024-12-29 22:15:55'}
+2024-12-29 22:16:23 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=195, name='Test', category='Electronics', stock=0, price=9.99, timestamp='2024-12-29 20:45:22'}
+2024-12-29 22:16:24 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=199, name='Test 1', category='Test 1002', stock=0, price=100.0, timestamp='2024-12-29 20:47:03'}
+2024-12-29 22:17:39 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:17:40 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@70f717ed
+2024-12-29 22:18:28 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] User email and password cannot be empty.
+2024-12-29 22:18:33 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:18:33 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@56f91ab3
+2024-12-29 22:18:35 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@d4eb45
+2024-12-29 22:19:24 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=201, name='hsemmak', category='Testct', stock=1, price=100.0, timestamp=''}
+2024-12-29 22:19:26 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@2ffd6e8
+2024-12-29 22:19:29 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=201, name='hsemmak', category='Testct', stock=1, price=100.0, timestamp='2024-12-29 22:19:24'}
+2024-12-29 22:19:45 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...
+2024-12-29 22:24:05 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:24:06 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:24:19 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:24:19 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@417fc083
+2024-12-29 22:24:22 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@20a5ad02
+2024-12-29 22:24:33 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=202, name='Hsemmak', category='tEST', stock=1, price=100.0, timestamp=''}
+2024-12-29 22:24:34 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@76b724f5
+2024-12-29 22:24:39 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@4c58c9c5
+2024-12-29 22:24:47 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=203, name='Test2', category='ya', stock=1, price=100.0, timestamp=''}
+2024-12-29 22:24:49 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@5013b344
+2024-12-29 22:24:59 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=203, name='Test2', category='ya', stock=1, price=100.0, timestamp='2024-12-29 22:24:47'}
+2024-12-29 22:25:00 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=202, name='Hsemmak', category='tEST', stock=1, price=100.0, timestamp='2024-12-29 22:24:33'}
+2024-12-29 22:25:01 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...
+2024-12-29 22:29:02 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:29:03 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:29:27 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:29:27 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@4b945182
+2024-12-29 22:29:29 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@996e94e
+2024-12-29 22:29:39 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=204, name='Testr', category='Test', stock=1, price=100.0, timestamp=''}
+2024-12-29 22:29:48 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=205, name='Hamza Semmak', category='Test2', stock=100, price=100.0, timestamp=''}
+2024-12-29 22:29:49 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@77d89f7f
+2024-12-29 22:29:56 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@6e4befa2
+2024-12-29 22:30:02 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT UPDATED SUCCESSFULLY: Product{id=204, name='Test lorem', category='Test', stock=1, price=100.0, timestamp='2024-12-29 22:29:38'}
+2024-12-29 22:30:02 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@5ae7735b
+2024-12-29 22:30:05 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=204, name='Test lorem', category='Test', stock=1, price=100.0, timestamp='2024-12-29 22:29:38'}
+2024-12-29 22:30:08 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=205, name='Hamza Semmak', category='Test2', stock=100, price=100.0, timestamp='2024-12-29 22:29:48'}
+2024-12-29 22:30:11 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...
+2024-12-29 22:33:52 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:33:53 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:33:57 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...
+2024-12-29 22:34:41 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] Start Of Application...
+2024-12-29 22:34:42 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@784bac71
+2024-12-29 22:34:49 [Thread[JavaFX Application Thread,5,main]] [ERROR] [com.example.gestioninventairesystem.Logger.Logger] Invalid email format. Please provide a valid email address.
+2024-12-29 22:34:53 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] USER CONNECTED SUCCESSFULLY
+2024-12-29 22:34:53 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@17b0d689
+2024-12-29 22:34:55 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@4a34ac9a
+2024-12-29 22:35:06 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=206, name='P1', category='P1', stock=1, price=100.0, timestamp=''}
+2024-12-29 22:35:07 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@2d4400c8
+2024-12-29 22:35:09 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@6e48f1f1
+2024-12-29 22:35:18 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=207, name='P2', category='P2', stock=10, price=100.0, timestamp=''}
+2024-12-29 22:35:19 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@4c7a8065
+2024-12-29 22:35:23 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@15505184
+2024-12-29 22:35:27 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT UPDATED SUCCESSFULLY: Product{id=207, name='P200000', category='P2', stock=10, price=100.0, timestamp='2024-12-29 22:35:18'}
+2024-12-29 22:35:27 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@358e7dc4
+2024-12-29 22:35:29 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@5d7b6a20
+2024-12-29 22:35:37 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT CREATED SUCCESSFULLY: Product{id=208, name='P3', category='P3', stock=1, price=1.0, timestamp=''}
+2024-12-29 22:35:38 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] DriverManager True, connected to database : com.mysql.cj.jdbc.ConnectionImpl@1e98cffc
+2024-12-29 22:35:47 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=208, name='P3', category='P3', stock=1, price=1.0, timestamp='2024-12-29 22:35:37'}
+2024-12-29 22:35:48 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=207, name='P200000', category='P2', stock=10, price=100.0, timestamp='2024-12-29 22:35:18'}
+2024-12-29 22:35:48 [Thread[JavaFX Application Thread,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] PRODUCT DELETED SUCCESSFULLY: Product{id=206, name='P1', category='P1', stock=1, price=100.0, timestamp='2024-12-29 22:35:06'}
+2024-12-29 22:35:49 [Thread[main,5,main]] [INFO] [com.example.gestioninventairesystem.Logger.Logger] End Of Application...

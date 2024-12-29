@@ -1,6 +1,7 @@
 package com.example.gestioninventairesystem.Logger;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
@@ -14,6 +15,12 @@ public class Logger {
 
     static {
         try {
+            File logDir = new File(Path);
+            if (!logDir.exists()) {
+                if (!logDir.mkdirs()) {
+                    throw new IOException("Failed to create log directory: " + Path);
+                }
+            }
             FileWriter fileWriter = new FileWriter(logPattern(), true);
             writer = new BufferedWriter(fileWriter);
         } catch (IOException e) {

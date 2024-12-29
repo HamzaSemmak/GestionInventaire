@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.gestioninventairesystem.Controller.ReadProductController"
+            prefHeight="600.0" prefWidth="900.0">
+    <children>
+        <!-- Search TextField -->
+        <TextField fx:id="searchTextField" promptText="Search products..." layoutX="10.0" layoutY="50.0" />
+
+        <!-- Buttons for Refresh and Nouveau -->
+        <Button text="Refresh" fx:id="refreshButton" layoutX="10.0" layoutY="10.0" />
+        <Button text="Add" fx:id="nouveauButton" layoutX="100.0" layoutY="10.0" />
+
+        <!-- TableView for displaying products -->
+        <TableView fx:id="productTable" prefHeight="500.0" prefWidth="900.0" AnchorPane.leftAnchor="10" AnchorPane.topAnchor="90">
+            <columns>
+                <TableColumn fx:id="idColumn" text="ID" prefWidth="100.0" />
+                <TableColumn fx:id="nameColumn" text="Name" prefWidth="150.0" />
+                <TableColumn fx:id="categoryColumn" text="Category" prefWidth="150.0" />
+                <TableColumn fx:id="stockColumn" text="Stock" prefWidth="100.0" />
+                <TableColumn fx:id="priceColumn" text="Price" prefWidth="100.0" />
+                <TableColumn fx:id="timestampColumn" text="Timestamp" prefWidth="100.0" />
+                <TableColumn fx:id="actionColumn" text="Actions" prefWidth="100.0" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>

@@ -129,7 +129,7 @@ public class ReadProductController {
 
     private void handleRefresh(ActionEvent event) {
         productList.clear();
-        productList.addAll(productService.getAllProduct());
+        productList.addAll(this.productService.getAllProduct());
     }
 
     private void handleNouveau(ActionEvent event) {
